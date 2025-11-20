@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\WORK\\AI-Native Software Development\\GitHub Repo\\DotNET(Deep-Dive)\\AspNetCore Mastery\\01. HTTP\\02. HTTP Response Headers\\MyFirstApp\\MyFirstApp\\MyFirstApp.csproj": {}
+    "D:\\Github Repos\\DotNet\\01. AspNetCore - HTTP\\02. HTTP Response Headers\\MyFirstApp\\MyFirstApp.csproj": {}
   },
   "projects": {
-    "D:\\WORK\\AI-Native Software Development\\GitHub Repo\\DotNET(Deep-Dive)\\AspNetCore Mastery\\01. HTTP\\02. HTTP Response Headers\\MyFirstApp\\MyFirstApp\\MyFirstApp.csproj": {
+    "D:\\Github Repos\\DotNet\\01. AspNetCore - HTTP\\02. HTTP Response Headers\\MyFirstApp\\MyFirstApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\WORK\\AI-Native Software Development\\GitHub Repo\\DotNET(Deep-Dive)\\AspNetCore Mastery\\01. HTTP\\02. HTTP Response Headers\\MyFirstApp\\MyFirstApp\\MyFirstApp.csproj",
+        "projectUniqueName": "D:\\Github Repos\\DotNet\\01. AspNetCore - HTTP\\02. HTTP Response Headers\\MyFirstApp\\MyFirstApp.csproj",
         "projectName": "MyFirstApp",
-        "projectPath": "D:\\WORK\\AI-Native Software Development\\GitHub Repo\\DotNET(Deep-Dive)\\AspNetCore Mastery\\01. HTTP\\02. HTTP Response Headers\\MyFirstApp\\MyFirstApp\\MyFirstApp.csproj",
+        "projectPath": "D:\\Github Repos\\DotNet\\01. AspNetCore - HTTP\\02. HTTP Response Headers\\MyFirstApp\\MyFirstApp.csproj",
         "packagesPath": "C:\\Users\\AFAQE\\.nuget\\packages\\",
-        "outputPath": "D:\\WORK\\AI-Native Software Development\\GitHub Repo\\DotNET(Deep-Dive)\\AspNetCore Mastery\\01. HTTP\\02. HTTP Response Headers\\MyFirstApp\\MyFirstApp\\obj\\",
+        "outputPath": "D:\\Github Repos\\DotNet\\01. AspNetCore - HTTP\\02. HTTP Response Headers\\MyFirstApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -44,7 +44,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.300"
+        "SdkAnalysisLevel": "10.0.100"
       },
       "frameworks": {
         "net9.0": {
@@ -68,7 +68,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.306/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.100/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

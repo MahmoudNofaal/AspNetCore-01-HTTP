@@ -9,6 +9,7 @@ public class Program
 
       //app.MapGet("/", () => "Hello World!");
 
+      // Http Provide an object to handle requests and responses
       app.Run(async (HttpContext context) =>
       {
          // make a dummy condition, to test status codes

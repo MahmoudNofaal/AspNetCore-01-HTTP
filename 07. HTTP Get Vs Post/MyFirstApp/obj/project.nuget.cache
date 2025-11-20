@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gjREN3oLawA=",
+  "dgSpecHash": "L8GF5y2LNlI=",
   "success": true,
-  "projectFilePath": "D:\\WORK\\AI-Native Software Development\\GitHub Repo\\DotNET(Deep-Dive)\\AspNetCore Mastery\\01. HTTP\\07. HTTP Get Vs Post\\MyFirstApp\\MyFirstApp\\MyFirstApp.csproj",
+  "projectFilePath": "D:\\Github Repos\\DotNet\\01. AspNetCore - HTTP\\07. HTTP Get Vs Post\\MyFirstApp\\MyFirstApp.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
